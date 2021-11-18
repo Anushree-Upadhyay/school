@@ -1,0 +1,25 @@
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#myNavbar {
+    background-color: #000000;
+    color: white;
+}
+#m {
+    background-color: #195485;
+    color: white; 
+}
+#map {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+#details {
+    float: right;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
